@@ -38,23 +38,12 @@ export default function Home() {
           justify-content: center;
           align-items: center;
         }
-        footer img {
-          margin-left: 0.5rem;
-        }
         footer a {
           display: flex;
           justify-content: center;
           align-items: center;
           text-decoration: none;
           color: inherit;
-        }
-        code {
-          background: #fafafa;
-          border-radius: 5px;
-          padding: 0.75rem;
-          font-size: 1.1rem;
-          font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
-            DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
         }
       `}</style>
 
